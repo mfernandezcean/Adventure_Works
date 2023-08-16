@@ -103,3 +103,9 @@ ORDER BY
   WHERE 
   	CalendarYear >= 2019;
   ```
+
+---
+
+### Dashboard: 
+
+![dwqwdqdwq](https://github.com/mfernandezcean/Adventure_Works/assets/105746149/8bd2048a-fceb-4204-901d-cd380173e005)
