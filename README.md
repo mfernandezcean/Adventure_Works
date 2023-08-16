@@ -105,7 +105,11 @@ ORDER BY
   ```
 
 ---
+### Data Model:
+
+![dwqwqdwqdwdq](https://github.com/mfernandezcean/Adventure_Works/assets/105746149/6e9cdf0d-1caa-4935-88c4-612eae2fd19a)
 
 ### Dashboard: 
+
 
 ![dwqwdqdwq](https://github.com/mfernandezcean/Adventure_Works/assets/105746149/8bd2048a-fceb-4204-901d-cd380173e005)
